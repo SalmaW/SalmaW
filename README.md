@@ -28,10 +28,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/salmaw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salmaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salmaw&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmaw&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salmaw&"/>
 </a>
 </p>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=salmaw&show_icons=true&locale=en&layout=compact)](https://github.com/SalmaW)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=salmaw&)](https://github.com/Elanza-48)
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
