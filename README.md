@@ -27,8 +27,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p algin="center">
-  [![](https://github-readme-stats.vercel.app/api/top-langs?username=salmaw&show_icons=true&locale=en&layout=compact)](https://github.com/SalmaW)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=salmaw&)](https://github.com/Elanza-48)
+  <a
+    [![](https://github-readme-stats.vercel.app/api/top-langs?username=salmaw&show_icons=true&locale=en&layout=compact)](https://github.com/SalmaW)
+    [![](https://github-readme-streak-stats.herokuapp.com/?user=salmaw&)](https://github.com/Elanza-48)
+    ></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
