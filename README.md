@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Mobile developer from Egypt</h3>
 
 
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on [Chat App](https://github.com/SalmaW/chat_app)
 
@@ -10,6 +12,15 @@
 - 📫 How to reach me **salmamaarouf00@gmail.com**
 
 - ⚡ Fun fact **I like reading 📖**
+
+
+### 🚀 Projects
+- [Caht app](https://github.com/SalmaW/chat_app) - Flutter app
+- [Market Manger app](https://github.com/SalmaW/ECTD_levelOne_final_project) - Flutter app
+- [Guess Game](https://github.com/SalmaW/Guess-Game-Android-Native) - Android Native app
+- [Metro Transportation in Egypt](https://github.com/SalmaW/metro_in_JAVA) - using JAVA
+
+
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,6 +36,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 
 
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/salmaw">
@@ -33,8 +46,6 @@
 </a>
 </p>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=salmaw&show_icons=true&locale=en&layout=compact)](https://github.com/SalmaW)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=salmaw&)](https://github.com/Elanza-48)
 
 
 
